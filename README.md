@@ -1,5 +1,9 @@
 # @carbonenginejs/runtime-input
 
+> **Retired donor.** Maintained source now lives in
+> `@carbonenginejs/runtime/input` under `runtime/src/input`. This checkout is
+> historical evidence only; do not install or publish it.
+
 Browser host-window, keyboard, pointer, and cursor adapters for CarbonEngineJS.
 
 Use this package to translate DOM window and input events into Carbon-shaped

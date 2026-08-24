@@ -1,5 +1,9 @@
 # Package documentation
 
+> **Historical donor documentation.** Current input documentation is in
+> `runtime/docs/input` and current source is exported by
+> `@carbonenginejs/runtime/input`.
+
 Status: Evolving
 Scope: `@carbonenginejs/runtime-input`
 Audience: Runtime integrators and maintainers
